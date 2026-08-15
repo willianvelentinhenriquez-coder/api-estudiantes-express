@@ -1,1 +1,15 @@
-
+{
+  "name": "api-estudiantes-express",
+  "version": "1.0.0",
+  "description": "API REST para administración de estudiantes construida con Node.js y Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "node", "api", "rest", "estudiantes"],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
