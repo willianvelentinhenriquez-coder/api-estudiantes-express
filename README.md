@@ -19,5 +19,4 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU-USUARIO/api-estudiantes-express.git](https://github.com/TU-USUARIO/api-estudiantes-express.git)
-   cd api-estudiantes-express
+   git clone https://github.com/willianvelentinhenriquez-coder/api-estudiantes-express/tree/main
